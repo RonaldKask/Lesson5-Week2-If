@@ -20,6 +20,16 @@ namespace Task3
             X = Int32.Parse(UserInput1);
             Y = Int32.Parse(UserInput2);
 
+            /*
+            if (X == Y)
+            {
+            Console.WriteLine("the numbers you provided are equal")
+            }else
+            {
+            Console.WriteLine("the numbers you provided are not equal")
+            }else
+            */
+
             if (X > Y)
             {
                 Console.WriteLine($"{X} is bigger than {Y}");

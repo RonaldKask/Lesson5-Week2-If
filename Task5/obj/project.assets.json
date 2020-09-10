@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week2IfStatement\\Task3\\Task3.csproj",
-      "projectName": "Task3",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\Week2IfStatement\\Task3\\Task3.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Week2IfStatement\\Task5\\Task5.csproj",
+      "projectName": "Task5",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Week2IfStatement\\Task5\\Task5.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\Week2IfStatement\\Task3\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Week2IfStatement\\Task5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
